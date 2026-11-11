@@ -18,7 +18,9 @@ The point of this project is the loop in the middle. Most text-to-video demos ru
   Keep the link on its own line, with blank lines above and below it.
 -->
 
-PASTE_VIDEO_LINK_HERE
+https://github.com/user-attachments/assets/a84babd9-e6a3-4954-a804-b181cd5cb513
+
+
 
 *A 49-second video made from the one-line prompt shown in the walkthrough below.*
 
