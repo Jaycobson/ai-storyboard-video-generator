@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/a84babd9-e6a3-4954-a804-b181cd5cb513
 
 
 
-*A 49-second video made from the one-line prompt shown in the walkthrough below.*
+*A video made from the one-line prompt shown in the walkthrough below.*
 
 **Contents**
 [Demo](#demo) · [How it works](#how-it-works) · [Features](#features) · [Walkthrough](#walkthrough) · [Setup](#setup) · [Docker](#docker) · [Configuration](#configuration) · [Project layout](#project-layout) · [Tests and CI](#tests-and-ci) · [Limitations](#limitations)
